@@ -9,10 +9,10 @@ day 1 intermediate
     </head>
     <body>
         <nav>
-            <figure>
-            <img src= https://image.freepik.com/vektoren-kostenlos/gamer-logo-mit-slogan_1043-109.jpg width=‘100%’ height=“100%“>
-         <i><figcaption>ProLevel 2021</figcaption></i>
-            </figure>
+           <figure>
+           <img src= https://image.freepik.com/vektoren-kostenlos/gamer-logo-mit-slogan_1043-109.jpg width=‘100%’ height=“100%“>
+         <i<figcaption>ProLevel 2021</figcaption></i>
+           </figure>
         </nav>
 
         <form action="action_page.php">

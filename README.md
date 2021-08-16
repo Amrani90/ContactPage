@@ -15,32 +15,32 @@ day 1 intermediate
            </figure>
         </nav>
 
-        <form action="action_page.php">
-            First Name:<br>
-            <input type="text"name="First Name" Placeholder="First
+   <form action="action_page.php">
+       First Name:<br>
+       <input type="text"name="First Name" Placeholder="First
 name"><br>
-            Last Name:<br>
-            <input type="text"name="lastname"  placeholder="Family
-Name"><br/>
-           <br/>
-           <br/>
+       Last Name:<br>
+       <input type="text"name="lastname"  placeholder="Family
+name"><br/>
+       <br/>
+       <br/>
  <br/>
     <br/>
-           Genre: <br/>
-           <select name="Genre">
-            <option value="Action">Action</option>
-            <option value="Jump n Run" selected>Jump n Run</option>
-            <option value="RollenSpiele">RollenSpiele</option>
-           </select> </nav>
-           <br/><br/>
+       Genre: <br/>
+       <select name="Genre">
+        <option value="Action">Action</option>
+        <option value="Jump n Run" selected>Jump n Run</option>
+        <option value="RollenSpiele">RollenSpiele</option>
+       </select> </nav>
+       <br/><br/>
 
-           Select Experience: <br/>
+   Select Experience: <br/>
 
-           <input type="radio" name="Experience" value="Pro" checked> Pro
-          <br/>
+   <input type="radio" name="Experience" value="Pro" checked> Pro
+  <br/>
 
-           <input type="radio" name="Experience" value="LowLevel"> LowLevel <br/>
-                     <input type="radio" name="Experience" value="Beginner"> Beginner
+   <input type="radio" name="Experience" value="LowLevel"> LowLevel <br/>
+             <input type="radio" name="Experience" value="Beginner"> Beginner
          <br/>
          <br/>
            <br/>
@@ -77,5 +77,5 @@ Name"><br/>
 
 
 
-    </body>
+   </body>
 </html>

@@ -57,22 +57,6 @@ Name"><br/>
            <br/>
            <br/>
            <br/>
-           <center>
-        <nav> <em>
-      <i>  <a href="Index. "https">file:///C:/Users/rainer/Desktop/exercises/verlinkung.html</a>
-      <i>  <a href="LAHAINE."https">file:///C:/Users/rainer/Desktop/exercises/LaHaine%20Moviepage.html</a>
-      <i>  <a href="KontaktPage."https">file:///C:/Users/rainer/Desktop/exercises/Contact%20Page.html</a>
-      <i>  <a href="Redman(Lyrics)."https">file:///C:/Users/rainer/Desktop/Redman%20-Go%20Hard%20(Lyrics).html</a>
-      <i>  <a href="Welcome Everbody."https">file:///C:/Users/rainer/Desktop/exercises/Welcome%20Everbody2.html</a>
-         </nav> </em>
-          </center>
-
-
-
-    </body>
-</html>
-
-
 
   <div>
     <nav> 
